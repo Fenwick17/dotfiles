@@ -1,0 +1,62 @@
+! Colors - colors everywhere!
+rofi.color-enabled:                  true
+rofi.color-normal:                   argb:00000000, #1aa, argb:11FFFFFF, #1aa,#333
+rofi.color-urgent:                   argb:00000000, #f99, argb:11FFFFFF, #f99,#333
+rofi.color-active:                   argb:00000000, #aa1, argb:11FFFFFF, #aa1,#333
+rofi.color-window:                   argb:ee333333, #1aa,#1aa
+rofi.separator-style:                dash
+rofi.width: 600
+
+! special
+*.foreground:   #d9d8d8
+*.background:   #231f20
+*.cursorColor:  #d9d8d8
+
+! black
+*.color0:       #231f20
+*.color8:       #737171
+
+! red
+*.color1:       #ee2e24
+*.color9:       #ee2e24
+
+! green
+*.color2:       #00853e
+*.color10:      #00853e
+
+! yellow
+*.color3:       #ffd204
+*.color11:      #ffd204
+
+! blue
+*.color4:       #009ddc
+*.color12:      #009ddc
+
+! magenta
+*.color5:       #8c54fe
+*.color13:      #9e6ffe
+
+! cyan
+*.color6:       #85cebc
+*.color14:      #85cebc
+
+! white
+*.color7:       #d9d8d8
+*.color15:      #ffffff
+
+
+! URxvt General
+URxvt.background: [85]#1c2023
+URxvt.scrollBar: false
+URxvt.internalBorder: 10
+UXTerm*bellIsUrgent: true
+URxvt.font: xft:Hack:size=10:antialias=true
+
+URxvt.colorUL: #4682B4
+
+URxvt.cursorBlink: false
+URxvt.cursorUnderline: true
+
+URxvt*scrollTtyOutput: false
+URxvt*scrollWithBuffer: true
+URxvt*scrollTtyKeypress: trueD
