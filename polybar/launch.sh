@@ -1,2 +1,3 @@
-MONITOR=DP-4 polybar top &
-MONITOR=DVI-D-0 polybar top
+MONITOR=DP2 polybar top &
+MONITOR=HDMI1 polybar top & 
+MONITOR=eDP1 polybar top
